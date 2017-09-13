@@ -1,0 +1,21 @@
+<?php
+
+namespace app\modules\admin\controllers;
+
+use yii\web\Controller;
+
+
+class AppAdminController extends Controller
+{
+    /*public function actions()
+    {
+        return [
+            'error' => [
+                'class' => 'yii\web\ErrorAction',
+            ],
+        ];
+
+    }*/
+    
+    
+}

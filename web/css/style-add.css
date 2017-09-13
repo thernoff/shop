@@ -1,0 +1,33 @@
+button.search-button{
+    border: none;
+    border-left: 1px solid #E0E0E0;
+}
+
+.del-item{
+    cursor: pointer;
+}
+
+ul.categories-filter{
+  margin-bottom: 0;
+}
+
+div.col-sm-6{
+    padding-right: 0px;
+    padding-left: 15px;
+}
+
+.main-header .top-search-holder .search-area .search-field {
+  width: 65%;
+}
+/*Увеличиваем высоту слайдера*/
+#owl-main {
+  height: 464px;
+}
+
+#owl-main .item {
+  height: 464px;
+}
+
+.main-header{
+    padding: 20px 0 30px;
+}
