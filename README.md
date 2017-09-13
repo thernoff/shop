@@ -1,4 +1,4 @@
-The project of an online store. (Yii 2 Basic Project Template)
+The project of an online store (Yii 2 Basic Project Template).
 ==============================================================
 
 - the site is created on the Yii2 framework using the jQuery library, the MySQL database;
